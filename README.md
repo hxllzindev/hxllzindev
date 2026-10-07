@@ -2,14 +2,14 @@
   <img src="16bit_banner.gif" alt="16-bit banner" width="800"/>
 </div>
 
-<h1 align="center">★ HXLLZIN ★</h1>
-<h3 align="center">Backend Developer — C# · .NET · DevSecOps · Player 1</h3>
+<h1 align="center">ADRIEL PEREIRA</h1>
+<h3 align="center">Backend Developer — C# · .NET · DevSecOps</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MODE-16--BIT-ff71ce?style=for-the-badge&labelColor=1a0b2e"/>
-  <img src="https://img.shields.io/badge/CLASS-BACKEND%2FDEVSECOPS-01cdfe?style=for-the-badge&labelColor=1a0b2e"/>
-  <img src="https://img.shields.io/badge/LVL-99-b967ff?style=for-the-badge&labelColor=1a0b2e"/>
-  <img src="https://img.shields.io/badge/HP-████████░░-05ffa1?style=for-the-badge&labelColor=1a0b2e"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND-ff71ce?style=for-the-badge&labelColor=1a0b2e"/>
+  <img src="https://img.shields.io/badge/STACK-.NET-01cdfe?style=for-the-badge&labelColor=1a0b2e"/>
+  <img src="https://img.shields.io/badge/BASED%20IN-BRAZIL-b967ff?style=for-the-badge&labelColor=1a0b2e"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-05ffa1?style=for-the-badge&labelColor=1a0b2e"/>
 </p>
 
 ```
@@ -19,22 +19,26 @@
 │ $ cat stack.txt                                      │
 │ > C# · .NET · PostgreSQL · Docker · Kafka            │
 │ $ uptime                                             │
-│ > grinding desde 2024 · Mesquita/RJ                  │
+│ > building since 2024 · Mesquita/RJ · Brazil         │
 └──────────────────────────────────────────────────────┘
 ```
 
-## 🕹️ SKILL TREE
+Backend developer focused on C# and .NET, with hands-on experience in APIs,
+distributed services, automated testing, Docker, databases, DevSecOps and AI
+coding agents (OpenAI Codex, Claude Code).
+
+## TECHNICAL PROFICIENCY
 
 ```
-C#           ▓▓▓▓▓▓▓▓▓▓▓▓▓░   LVL 90
-.NET         ▓▓▓▓▓▓▓▓▓▓▓▓▓░   LVL 90
-PostgreSQL   ▓▓▓▓▓▓▓▓▓▓▓░░░   LVL 75
-Docker       ▓▓▓▓▓▓▓▓▓▓░░░░   LVL 70
-DevSecOps    ▓▓▓▓▓▓▓▓▓░░░░░   LVL 65
-Kafka        ▓▓▓▓▓▓▓▓░░░░░░   LVL 60
+C#           ▓▓▓▓▓▓▓▓▓▓▓▓▓░
+.NET         ▓▓▓▓▓▓▓▓▓▓▓▓▓░
+PostgreSQL   ▓▓▓▓▓▓▓▓▓▓▓░░░
+Docker       ▓▓▓▓▓▓▓▓▓▓░░░░
+DevSecOps    ▓▓▓▓▓▓▓▓▓░░░░░
+Kafka        ▓▓▓▓▓▓▓▓░░░░░░
 ```
 
-## 🗡️ ARSENAL
+## TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -47,23 +51,23 @@ Kafka        ▓▓▓▓▓▓▓▓░░░░░░   LVL 60
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-## 🏰 BOSSES DERROTADOS (projetos)
+## FEATURED PROJECTS
 
-| Dungeon | Loot |
+| Project | Description |
 |---|---|
-| **SentinelFlow** | Plataforma DevSecOps em ASP.NET Core/.NET — orquestração de pipelines, normalização de findings, políticas de merge, SLAs de remediação e exceções de risco |
-| **Secure SaaS Lab** | Laboratório AppSec que compara ambientes vulnerável vs. seguro — MFA, rate limiting, CSRF, RBAC e auditoria |
-| **HXLLDEV Store** | Simulação de e-commerce distribuído — Orders Service em Minimal API, Kafka, PostgreSQL, Docker, Saga e Event Sourcing |
-| **HXLLGRAVE** | Projeto em Swift desenvolvido com agentes de IA (OpenAI Codex) integrados ao fluxo de implementação |
+| **SentinelFlow** | DevSecOps platform built with ASP.NET Core/.NET — pipeline orchestration, finding normalization, merge policies, remediation SLAs and risk exceptions |
+| **Secure SaaS Lab** | AppSec laboratory comparing vulnerable vs. secure environments — MFA, rate limiting, CSRF, RBAC and audit trails |
+| **HXLLDEV Store** | Distributed commerce simulation — Orders Service with Minimal API, Kafka, PostgreSQL, Docker, Saga orchestration and Event Sourcing |
+| **HXLLGRAVE** | Swift project built with AI coding agents (OpenAI Codex) integrated into the implementation workflow |
 
-## 🛡️ BUFFS PASSIVOS (DevSecOps)
+## SECURITY TOOLING
 
 ```
 MFA · RBAC · Rate Limiting · CSRF · HttpOnly Cookies · Audit Trails
 CodeQL · Semgrep · Gitleaks · Trivy · SBOM
 ```
 
-## 🏆 HIGH SCORES
+## GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hxllzindev&show_icons=true&theme=dracula&hide_border=true&title_color=ff71ce&icon_color=01cdfe&text_color=b967ff&bg_color=1a0b2e" height="165"/>
@@ -74,7 +78,7 @@ CodeQL · Semgrep · Gitleaks · Trivy · SBOM
   <img src="https://streak-stats.demolab.com?user=hxllzindev&theme=dracula&hide_border=true&ring=ff71ce&fire=01cdfe&currStreakLabel=b967ff&background=1a0b2e" height="165"/>
 </p>
 
-<!-- COBRINHA DO COMMITS (opcional — gera com Platane/snk):
+<!-- CONTRIBUTION SNAKE (optional — generate with Platane/snk):
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxllzindev/hxllzindev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxllzindev/hxllzindev/output/github-snake.svg" />
@@ -82,22 +86,14 @@ CodeQL · Semgrep · Gitleaks · Trivy · SBOM
 </picture>
 -->
 
-## 🎓 ACADEMIA DO HERO
+## EDUCATION & CERTIFICATIONS
 
-- **Estácio (UNESA)** — Análise e Desenvolvimento de Sistemas · 2024–2027
-- **Certificações:** Advanced Back-End with .NET · Back-End with .NET and C# · C# Fundamentals · Databases · Docker · Data Analytics on AWS · Cyber Threat Management · Introdução ao Pentest
+- **Estácio (UNESA)** — System Analysis and Development · 2024–2027
+- **Certifications:** Advanced Back-End with .NET · Back-End with .NET and C# · C# Fundamentals · Databases · Docker · Data Analytics on AWS · Cyber Threat Management · Introduction to Pentesting
 
-## 📡 PLAYER 2? (contato)
+## GET IN TOUCH
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hxlldev/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adriel.p@icloud.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<div align="center">
-
-`GAME OVER? Aperte F5 pra continuar.`
-
-`★ feito com café e chiptune ★`
-
-</div>
