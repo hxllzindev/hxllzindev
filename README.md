@@ -32,6 +32,7 @@ coding agents (OpenAI Codex, Claude Code).
 ```
 C#           ▓▓▓▓▓▓▓▓▓▓▓▓▓░
 .NET         ▓▓▓▓▓▓▓▓▓▓▓▓▓░
+ASP.NET Core ▓▓▓▓▓▓▓▓▓▓▓▓░░
 PostgreSQL   ▓▓▓▓▓▓▓▓▓▓▓░░░
 Docker       ▓▓▓▓▓▓▓▓▓▓░░░░
 DevSecOps    ▓▓▓▓▓▓▓▓▓░░░░░
@@ -43,6 +44,7 @@ Kafka        ▓▓▓▓▓▓▓▓░░░░░░
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
